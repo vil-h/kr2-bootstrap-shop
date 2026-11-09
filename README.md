@@ -30,6 +30,6 @@
 
 Логотипы взяты из [Lobe Icons](https://github.com/lobehub/lobe-icons), источник и лицензия указаны в `images/`. Названия и логотипы принадлежат их правообладателям.
 
-**Репозиторий:** https://github.com/vil-h/frontend-shop/tree/kr2-bootstrap
+**Репозиторий:** https://github.com/vil-h/kr2-bootstrap-shop
 
-Методичка требует отдельный репозиторий `kr2-bootstrap-shop`; здесь используется отдельная ветка по выбранной схеме хранения трёх контрольных работ.
+После включения GitHub Pages для ветки `main` сайт будет доступен по адресу: https://vil-h.github.io/kr2-bootstrap-shop/
